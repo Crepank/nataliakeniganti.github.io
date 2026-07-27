@@ -1,2 +1,6 @@
 # nataliakeniganti.github.io
-My website 😆
+
+Milan Szulc (known as Natalia Kenig)
+
+Full Developer - Emoji Maker
+
