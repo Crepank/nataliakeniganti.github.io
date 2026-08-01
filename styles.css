@@ -54,10 +54,11 @@ main{max-width:900px}
 .toast.show{opacity:1;transform:translateY(0)}
 /* dark theme */
 body.dark{background:#0b1220;color:#e6eef8}
+body.dark h1{color:#e6eef8}
 body.dark .site-list li{background:#071124;box-shadow:0 6px 18px rgba(2,6,23,0.6)}
 body.dark .subtitle, body.dark .note{color:#9fb0d6}
-body.dark .h1, body.dark .h2, body.dark .h3{color:#e6eef8}
-body.dark .copy-btn{background:#172554;border-color:rgba(37,99,235,0.16)
+body.dark h2, body.dark h3{color:#e6eef8}
+body.dark .copy-btn{background:#172554;border-color:rgba(37,99,235,0.16)}
 body.dark #theme-toggle{background:#172554;border-color:rgba(37,99,235,0.16)}
 body.dark a{color:#60a5fa}
 body.dark .toast{background:#172554;color:#e6eef8}
